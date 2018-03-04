@@ -1,3 +1,5 @@
+0.npm install后可运行
+
 1.项目采用react-navigation实现界面导航
 
 2.下午1点半开始，主界面用时2小时
