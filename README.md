@@ -12,7 +12,9 @@
 
 6.安卓兼容性检查约0.5小时
 
+
 todo:
+
 1.加入flow进行类型检查
 
 2.network image loading加入更友好的加载动画
