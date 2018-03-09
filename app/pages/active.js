@@ -64,7 +64,7 @@ export default class Home extends Component<Props> {
     }
 
     playSong(){
-        let url = 'https://raw.githubusercontent.com/zmxv/react-native-sound-demo/master/frog.wav'
+        let url = 'https://raw.githubusercontent.com/ronniegong/miniproject/master/song.mp3'
         var player = new Sound(url, undefined, (error) => {
             if (error) {
                 console.log('failed to load the sound', error);
